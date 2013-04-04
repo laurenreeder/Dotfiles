@@ -1,0 +1,5 @@
+# Defines how to quickly connect to eniac
+host eniac
+	hostname eniac.seas.upenn.edu
+	User lreeder
+	IdentityFile ~/.ssh/authorized_keys
